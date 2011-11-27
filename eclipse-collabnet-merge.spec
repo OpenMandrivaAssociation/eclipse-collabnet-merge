@@ -3,7 +3,7 @@
 
 Name:      eclipse-collabnet-merge
 Version:   2.2.1
-Release:   2
+Release:   4
 Summary:   CollabNet Merge Client for Subclipse
 Group:     Development/Java
 License:   EPL
