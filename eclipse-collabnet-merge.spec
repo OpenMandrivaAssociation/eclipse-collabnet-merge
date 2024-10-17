@@ -7,7 +7,7 @@ Release:   4
 Summary:   CollabNet Merge Client for Subclipse
 Group:     Development/Java
 License:   EPL
-URL:       http://desktop-eclipse.open.collab.net/servlets/ProjectProcess?pageID=MEuUjb&freeformpage=Merge%20Client
+URL:       https://desktop-eclipse.open.collab.net/servlets/ProjectProcess?pageID=MEuUjb&freeformpage=Merge%20Client
 
 # source tarball and the script used to generate it from upstream's source control
 # script usage:
